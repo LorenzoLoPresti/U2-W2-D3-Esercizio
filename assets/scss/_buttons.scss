@@ -1,0 +1,17 @@
+.main {
+  div {
+    margin-bottom: 70px;
+    text-align: center;
+    width: 400px;
+    .btn {
+      padding: 0.7em $spacing-default;
+      background-color: $tertiary-color;
+      width: 140px;
+      text-align: center;
+      color: $primary-color;
+      font-family: $primary-font;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+  }
+}
